@@ -42,8 +42,10 @@
 
 **Solution:** A series of experiments were designed and conducted to investigate this uncertainty. Unstructured speech and brain signals were first processed, and then a linear model was employed to predict brain activity from speech data. The findings unveiled heightened overall brain activity during prompted speech. However, spontaneous speech exhibited stronger brain encoding in two of the five specific brain regions studied.
 
-**Methods & Tools:** *experimental design, hypothesis testing (ANOVA, Kruskal-Wallis, Wilcoxon rank sum, t-test), generalized linear modeling, MATLAB (mTRF toolbox), Python*  
-![Data Blitz Talk and Poster Presented at CNS 2020](/assets/images/Agrawal_CNS_poster.png)
+**Methods & Tools:** *experimental design, hypothesis testing (ANOVA, Kruskal-Wallis, Wilcoxon rank sum, t-test), generalized linear modeling, MATLAB (mTRF toolbox), Python* 
+
+* *Data Blitz Talk and Poster Presented at Cognitive Neuroscience Socity 2020: * *  
+![](/assets/images/Agrawal_CNS_poster.png)
 
 ### >> Advanced analytics and reporting on product KPIs <<    
   
