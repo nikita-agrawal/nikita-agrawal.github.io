@@ -24,7 +24,7 @@
 
 **Company:** [Markerr](https://markerr.com/) *-  corporate partner for capstone at NYC Data Science Academy Bootcamp*  
 
-**Problem:** The cient, a commercial real estate platform, wanted to accurately forecast rental prices in the US with less than $100/month error using diverse alternative data sources in addition to the historical rent price data. 
+**Problem:** The client, a commercial real estate platform, wanted to accurately forecast rental prices in the US with less than $100/month error using diverse alternative data sources in addition to the historical rent price data. 
 
 **Solution:** Several time-series and supervised ML models were developed to accurately forecast rent price in 1000+ zip codes. Advanced data processing and feature engineering were applied to integrate Zillow Rent Index with alternative data (from Google Trends, the IRS, the ACS, public Bike Sharing datasets) in order to uncover valuable insights on rent price predictions.
 
