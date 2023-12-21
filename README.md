@@ -44,7 +44,7 @@
 
 ## :heavy_check_mark: Advanced analytics and reporting on product KPIs     
   
-**Company:** [Medocity Inc.](https://www.medocity.com/platform/))
+**Company:** [Medocity Inc.](https://www.medocity.com/platform/)
 
 **Problem:** At this telehealth app company, various stakeholders across Client Success, Product Management, Marketing, Engineering, and Sales lacked a comprehensive means to monitor key performance indicators, assess application health, and efficiently manage client accounts. The absence of an internal integrated analytics platform hindered their ability to make informed decisions and track vital metrics effectively.
 
