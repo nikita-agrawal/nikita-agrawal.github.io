@@ -13,7 +13,7 @@
 [View Publication](https://ascopubs.org/doi/full/10.1200/CCI.22.00143?role=tab)
 
 ### >> Implementing KPIs to guide school zone decision making <<
-
+  
 **Company:** [Pandata](https://pandata.co/)
 
 **Problem:** The architect team lacked an automated method to assess community impact when selecting schools for rebuilding and expansion. They faced challenges in quantifying impact at both student and neighborhood levels, relying on manual reviews and heuristics for each school, resulting in time-consuming evaluations. 
