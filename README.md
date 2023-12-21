@@ -1,4 +1,4 @@
-## :heavy_check_mark::heavy_check_mark: Predicting unplanned hospitalizations with explainable AI   
+## :heavy_check_mark: Predicting unplanned hospitalizations with explainable AI   
 
 **Company:** [Pandata](https://pandata.co/)
 
@@ -8,7 +8,7 @@
 
 **Methods & Tools:** xgboost, lightgbm, lasso, random forest, logistic regression, SHAP, scikit-learn, mlr3, SQL, PowerBI.
 
-[Related Publication](https://ascopubs.org/doi/full/10.1200/CCI.22.00143?role=tab)
+[View Publication](https://ascopubs.org/doi/full/10.1200/CCI.22.00143?role=tab)
 
 ## :heavy_check_mark: Implementing KPIs to guide school zone decision making  
   
@@ -19,6 +19,18 @@
 **Solution:** Addressing this issue, a semi-automated "what-if" dashboard tool and database were developed. This tool streamlined the evaluation of 170M planning scenarios, enabling simultaneous comparison of all schools in a given area. Key metrics like "median student commute time" and "number of highly rated schools within 5 miles" were incorporated. These metrics facilitated trade-off assessments among scenarios, supporting comprehensive decision-making regarding school prioritization for further investment.
  
 **Methods & Tools:** SQL, Azure, Python (dask, pandas, SQLAlchemy), PowerBI. 
+
+## :heavy_check_mark: Forecasting 2018 US Rental Prices    
+
+**Company:** [Markerr](https://markerr.com/)
+
+**Problem:** The cient, a commercial real estate platform, wanted to accurately forecast rental prices in the US with less than $100/month error using diverse alternative data sources in addition to the historical rent price data. 
+
+**Solution:** Several time-series and supervised ML models were developed to accurately forecast rent price in 1000+ zip codes. Advanced data processing and feature engineering were applied to integrate Zillow Rent Index with alternative data (from Google Trends, the IRS, the ACS, public Bike Sharing datasets) in order to uncover valuable insights on rent price predictions.
+
+**Methods & Tools:** ARIMAX, Lasso, XGBoost, feature selection, feature engineering with time-lagged data  
+
+[View Blog](https://nycdatascience.com/blog/student-works/data-driven-supervised-models-forecasting-u-s-rent-prices/) 
 
 ## :heavy_check_mark: Experimentation to compare brain activity for various speech tasks   
   
