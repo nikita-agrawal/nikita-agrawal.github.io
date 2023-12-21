@@ -20,7 +20,7 @@
  
 **Methods & Tools:** SQL, Azure, Python (dask, pandas, SQLAlchemy), PowerBI. 
 
-## :heavy_check_mark: Forecasting 2018 US Rental Prices    
+## :heavy_check_mark: Forecasting rental prices    
 
 **Company:** [Markerr](https://markerr.com/)
 
@@ -28,9 +28,9 @@
 
 **Solution:** Several time-series and supervised ML models were developed to accurately forecast rent price in 1000+ zip codes. Advanced data processing and feature engineering were applied to integrate Zillow Rent Index with alternative data (from Google Trends, the IRS, the ACS, public Bike Sharing datasets) in order to uncover valuable insights on rent price predictions.
 
-**Methods & Tools:** ARIMAX, Lasso, XGBoost, feature selection, feature engineering with time-lagged data  
+**Methods & Tools:** ARIMAX, Lasso, XGBoost, feature selection, feature engineering with time-lagged data, scikit-learn, Jupyter   
 
-[View Blog](https://nycdatascience.com/blog/student-works/data-driven-supervised-models-forecasting-u-s-rent-prices/) 
+[View Blog Write Up](https://nycdatascience.com/blog/student-works/data-driven-supervised-models-forecasting-u-s-rent-prices/) 
 
 ## :heavy_check_mark: Experimentation to compare brain activity for various speech tasks   
   
@@ -42,5 +42,12 @@
 
 **Methods & Tools:** experimental design, hypothesis testing (ANOVA, Kruskal-Wallis, Wilcoxon rank sum, t-test), generalized linear modeling, MATLAB (mTRF toolbox), Python  
 
+## :heavy_check_mark: Product Analytics and Reporting     
+  
+**Company:** [Medocity Inc.](https://www.medocity.com/platform/))
 
+**Problem:** At this telehealth app company, various stakeholders across Client Success, Product Management, Marketing, Engineering, and Sales lacked a comprehensive means to monitor KPIs, assess application health, and efficiently manage client accounts. The absence of an internal integrated analytics platform hindered their ability to make informed decisions and track vital metrics effectively.
 
+**Solution:** To address this challenge, an in-house analytics platform was developed and integrated seamlessly into the app interface. This platform facilitated real-time monitoring of key performance indicators related to user engagement, user behavior, and user satisfaction while enabling stakeholders to gauge app health and manage client accounts efficiently. Several training sessions on self-service BI were delivered to empower the team to comprehend and leverage data for decision-making, reducing ad-hoc reporting requests by 70%. 
+
+**Methods & Tools:** SQL, Tableau Server, dashboard design, reporting, product roadmap planning, product requirements document creation, BI training  
