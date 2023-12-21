@@ -8,7 +8,7 @@
 
 **Solution:** Using clinical, demographic and socio-economic data, several cancer-specific classification models were built to identify the top 74% of patients at risk of an unplanned 30-day readmission and provide personalized support, resulting in an estimate of $2.2 million cost savings per year. A dashboard was designed with visualizations of the leading factors contributing to individual patient risk score predictions to help clinical staff design targeted interventions. 
 
-**Methods & Tools:** xgboost, lightgbm, lasso, random forest, logistic regression, SHAP, scikit-learn, mlr3, SQL, PowerBI.
+**Methods & Tools:** *xgboost, lightgbm, lasso, random forest, logistic regression, SHAP, scikit-learn, mlr3, SQL, PowerBI*
 
 [View Publication](https://ascopubs.org/doi/full/10.1200/CCI.22.00143?role=tab)
 
@@ -20,7 +20,7 @@
 
 **Solution:** Addressing this issue, a semi-automated "what-if" dashboard tool and database were developed. This tool streamlined the evaluation of 170M planning scenarios, enabling simultaneous comparison of all schools in a given area. Key metrics like "median student commute time" and "number of highly rated schools within 5 miles" were incorporated. These metrics facilitated trade-off assessments among scenarios, supporting comprehensive decision-making regarding school prioritization for further investment.
  
-**Methods & Tools:** SQL, Azure, Python (dask, pandas, SQLAlchemy), PowerBI. 
+**Methods & Tools:** *SQL, Azure, Python (dask, pandas, SQLAlchemy), PowerBI* 
 
 ## >>> Forecasting rental prices <<<  
 
@@ -30,7 +30,7 @@
 
 **Solution:** Several time-series and supervised ML models were developed to accurately forecast rent price in 1000+ zip codes. Advanced data processing and feature engineering were applied to integrate Zillow Rent Index with alternative data (from Google Trends, the IRS, the ACS, public Bike Sharing datasets) in order to uncover valuable insights on rent price predictions.
 
-**Methods & Tools:** ARIMAX, Lasso, XGBoost, feature selection, feature engineering with time-lagged data, scikit-learn, Jupyter   
+**Methods & Tools:** *ARIMAX, Lasso, XGBoost, feature selection, feature engineering with time-lagged data, scikit-learn, Jupyter*   
 
 [View Blog Write Up](https://nycdatascience.com/blog/student-works/data-driven-supervised-models-forecasting-u-s-rent-prices/) 
 
@@ -42,7 +42,7 @@
 
 **Solution:** A series of experiments were designed and conducted to investigate this uncertainty. Unstructured speech and brain signals were first processed, and then a linear model was employed to predict brain activity from speech data. The findings unveiled heightened overall brain activity during prompted speech. However, spontaneous speech exhibited stronger brain encoding in two of the five specific brain regions studied.
 
-**Methods & Tools:** experimental design, hypothesis testing (ANOVA, Kruskal-Wallis, Wilcoxon rank sum, t-test), generalized linear modeling, MATLAB (mTRF toolbox), Python  
+**Methods & Tools:** *experimental design, hypothesis testing (ANOVA, Kruskal-Wallis, Wilcoxon rank sum, t-test), generalized linear modeling, MATLAB (mTRF toolbox), Python*  
 
 ## >>> Advanced analytics and reporting on product KPIs <<<    
   
@@ -52,4 +52,4 @@
 
 **Solution:** To address this challenge, an in-house analytics platform was developed and integrated seamlessly into the app interface. This platform facilitated real-time monitoring of KPIs related to user engagement, user behavior, and user satisfaction while enabling stakeholders to gauge app health and manage client accounts efficiently. Several training sessions on self-service BI were delivered to empower the team to comprehend and leverage data for decision-making, reducing ad-hoc reporting requests by 70%. 
 
-**Methods & Tools:** SQL, Tableau Server, data visualization, product roadmap planning, product requirements document creation, BI development - dashboards & reporting  
+**Methods & Tools:** *SQL, Tableau Server, data visualization, product roadmap planning, product requirements document creation, BI development*  
