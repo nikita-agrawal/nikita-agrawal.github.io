@@ -51,7 +51,7 @@ _Data Blitz Talk & Poster presented at Cognitive Neuroscience Society 2020 Confe
   
 **Company:** [Medocity Inc.](https://www.medocity.com/platform/)
 
-**Problem:** At this telehealth app company, various stakeholders across Client Success, Product Management, Marketing, Engineering, and Sales lacked a comprehensive means to monitor key performance indicators, assess application health, and efficiently manage client accounts. The absence of an internal integrated analytics platform hindered their ability to make informed decisions and track vital metrics effectively.
+**Problem:** Various stakeholders at the telehealth app company from Client Success, Product Management, Marketing, Engineering, and Sales lacked a comprehensive means to monitor key performance indicators, assess application health, and efficiently manage client accounts. The absence of an internal integrated analytics platform hindered their ability to make informed decisions and track vital metrics effectively.
 
 **Solution:** To address this challenge, an in-house analytics platform was developed and integrated seamlessly into the app interface. This platform facilitated real-time monitoring of KPIs related to user engagement, user behavior, and user satisfaction while enabling stakeholders to gauge app health and manage client accounts efficiently. Several training sessions on self-service BI were delivered to empower the team to comprehend and leverage data for decision-making, reducing ad-hoc reporting requests by 70%. 
 
