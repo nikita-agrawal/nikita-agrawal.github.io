@@ -22,7 +22,7 @@
 
 ## :heavy_check_mark: Forecasting rental prices    
 
-**Company:** [Markerr](https://markerr.com/)
+**Company:** [Markerr](https://markerr.com/) * *, corporate partner for capstone at NYC Data Science Academy Bootcamp* * 
 
 **Problem:** The cient, a commercial real estate platform, wanted to accurately forecast rental prices in the US with less than $100/month error using diverse alternative data sources in addition to the historical rent price data. 
 
