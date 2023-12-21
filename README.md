@@ -1,4 +1,4 @@
-## Predicting unplanned hospitalizations with explainable AI   
+## :heavy_check_mark: Predicting unplanned hospitalizations with explainable AI   
 
 **Company:** [Pandata](https://pandata.co/)
 
