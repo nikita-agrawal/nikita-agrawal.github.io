@@ -1,6 +1,6 @@
 # *Selected data science projects* 
 
-## >>>Predicting unplanned hospitalizations with explainable AI   
+## >>> Predicting unplanned hospitalizations with explainable AI <<<   
 
 **Company:** [Pandata](https://pandata.co/) 
 
@@ -12,7 +12,7 @@
 
 [View Publication](https://ascopubs.org/doi/full/10.1200/CCI.22.00143?role=tab)
 
-## >>>Implementing KPIs to guide school zone decision making  
+## >>> Implementing KPIs to guide school zone decision making <<< 
   
 **Company:** [Pandata](https://pandata.co/)
 
@@ -22,7 +22,7 @@
  
 **Methods & Tools:** SQL, Azure, Python (dask, pandas, SQLAlchemy), PowerBI. 
 
-## >>>Forecasting rental prices    
+## >>> Forecasting rental prices <<<  
 
 **Company:** [Markerr](https://markerr.com/) *-  corporate partner for capstone at NYC Data Science Academy Bootcamp*  
 
@@ -34,7 +34,7 @@
 
 [View Blog Write Up](https://nycdatascience.com/blog/student-works/data-driven-supervised-models-forecasting-u-s-rent-prices/) 
 
-## >>>Experimentation to compare brain activity for various speech tasks   
+## >>> Experimentation to compare brain activity for various speech tasks <<<  
   
 **Company:** [NYU Langone Health - Flinker Lab](https://flinkerlab.org/)
 
@@ -44,7 +44,7 @@
 
 **Methods & Tools:** experimental design, hypothesis testing (ANOVA, Kruskal-Wallis, Wilcoxon rank sum, t-test), generalized linear modeling, MATLAB (mTRF toolbox), Python  
 
-## >>>Advanced analytics and reporting on product KPIs     
+## >>> Advanced analytics and reporting on product KPIs <<<    
   
 **Company:** [Medocity Inc.](https://www.medocity.com/platform/)
 
