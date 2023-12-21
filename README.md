@@ -1,4 +1,4 @@
-# Projects
+# Selected Projects
 
 ### >> Predicting unplanned hospitalizations <<        
 
