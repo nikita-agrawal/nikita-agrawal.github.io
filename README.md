@@ -1,4 +1,4 @@
-# Niki Agrawal, Data Scientist
+# Projects 
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
