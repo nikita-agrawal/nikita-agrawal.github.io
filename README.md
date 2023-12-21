@@ -42,12 +42,12 @@
 
 **Methods & Tools:** experimental design, hypothesis testing (ANOVA, Kruskal-Wallis, Wilcoxon rank sum, t-test), generalized linear modeling, MATLAB (mTRF toolbox), Python  
 
-## :heavy_check_mark: Product Analytics and Reporting     
+## :heavy_check_mark: Advanced analytics and reporting on product KPIs     
   
 **Company:** [Medocity Inc.](https://www.medocity.com/platform/))
 
-**Problem:** At this telehealth app company, various stakeholders across Client Success, Product Management, Marketing, Engineering, and Sales lacked a comprehensive means to monitor KPIs, assess application health, and efficiently manage client accounts. The absence of an internal integrated analytics platform hindered their ability to make informed decisions and track vital metrics effectively.
+**Problem:** At this telehealth app company, various stakeholders across Client Success, Product Management, Marketing, Engineering, and Sales lacked a comprehensive means to monitor key performance indicators, assess application health, and efficiently manage client accounts. The absence of an internal integrated analytics platform hindered their ability to make informed decisions and track vital metrics effectively.
 
-**Solution:** To address this challenge, an in-house analytics platform was developed and integrated seamlessly into the app interface. This platform facilitated real-time monitoring of key performance indicators related to user engagement, user behavior, and user satisfaction while enabling stakeholders to gauge app health and manage client accounts efficiently. Several training sessions on self-service BI were delivered to empower the team to comprehend and leverage data for decision-making, reducing ad-hoc reporting requests by 70%. 
+**Solution:** To address this challenge, an in-house analytics platform was developed and integrated seamlessly into the app interface. This platform facilitated real-time monitoring of KPIs related to user engagement, user behavior, and user satisfaction while enabling stakeholders to gauge app health and manage client accounts efficiently. Several training sessions on self-service BI were delivered to empower the team to comprehend and leverage data for decision-making, reducing ad-hoc reporting requests by 70%. 
 
 **Methods & Tools:** SQL, Tableau Server, dashboard design, reporting, product roadmap planning, product requirements document creation, BI training  
