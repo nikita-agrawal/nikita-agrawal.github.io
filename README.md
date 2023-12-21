@@ -1,6 +1,6 @@
 # *Projects* 
 
-### >> Predicting hospitalizations with explainable AI <<   
+### >> Predicting hospitalizations with explainable machine learning <<   
 
 **Company:** [Pandata](https://pandata.co/) 
 
