@@ -2,7 +2,7 @@
 
 ## >>>Predicting unplanned hospitalizations with explainable AI   
 
-**Company:** [Pandata](https://pandata.co/)
+**Company:** [Pandata](https://pandata.co/) 
 
 **Problem:** Cancer centers aim to minimize unplanned hospital readmissions rates since they are associated with poor patient health outcomes, low quality of care and high costs. Existing readmissions prediction models do not work well on the cancer population. 
 
