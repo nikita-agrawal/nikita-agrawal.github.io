@@ -44,7 +44,7 @@
 
 **Methods & Tools:** *experimental design, hypothesis testing (ANOVA, Kruskal-Wallis, Wilcoxon rank sum, t-test), generalized linear modeling, MATLAB (mTRF toolbox), Python* 
 
-* *Data Blitz Talk and Poster Presented at Cognitive Neuroscience Socity 2020: * *  
+_ _*Data Blitz Talk and Poster Presented at Cognitive Neuroscience Socity 2020:_ _  
 ![](/assets/images/Agrawal_CNS_poster.png)
 
 ### >> Advanced analytics and reporting on product KPIs <<    
