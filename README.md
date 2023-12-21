@@ -1,8 +1,9 @@
 # *Data Science Projects* 
 
-## ::heavy_check_mark:: Predicting unplanned hospitalizations with explainable AI   
+## >>>Predicting unplanned hospitalizations with explainable AI   
 
 **Company:** [Pandata](https://pandata.co/)
+**Role:** Data Science Consultant Level II 
 
 **Problem:** Cancer centers aim to minimize unplanned hospital readmissions rates since they are associated with poor patient health outcomes, low quality of care and high costs. Existing readmissions prediction models do not work well on the cancer population. 
 
@@ -12,9 +13,10 @@
 
 [View Publication](https://ascopubs.org/doi/full/10.1200/CCI.22.00143?role=tab)
 
-## :heavy_check_mark: Implementing KPIs to guide school zone decision making  
+## >>>Implementing KPIs to guide school zone decision making  
   
 **Company:** [Pandata](https://pandata.co/)
+**Role:** Data Science Consultant Level II 
 
 **Problem:** The architect team lacked an automated method to assess community impact when selecting schools for rebuilding and expansion. They faced challenges in quantifying impact at both student and neighborhood levels, relying on manual reviews and heuristics for each school, resulting in time-consuming evaluations. 
 
@@ -22,9 +24,10 @@
  
 **Methods & Tools:** SQL, Azure, Python (dask, pandas, SQLAlchemy), PowerBI. 
 
-## :heavy_check_mark: Forecasting rental prices    
+## >>>Forecasting rental prices    
 
 **Company:** [Markerr](https://markerr.com/) *-  corporate partner for capstone at NYC Data Science Academy Bootcamp*  
+**Role:** Data Scientist  
 
 **Problem:** The client, a commercial real estate platform, wanted to accurately forecast rental prices in the US with less than $100/month error using diverse alternative data sources in addition to the historical rent price data. 
 
@@ -34,9 +37,11 @@
 
 [View Blog Write Up](https://nycdatascience.com/blog/student-works/data-driven-supervised-models-forecasting-u-s-rent-prices/) 
 
-## :heavy_check_mark: Experimentation to compare brain activity for various speech tasks   
+## >>>Experimentation to compare brain activity for various speech tasks   
   
 **Company:** [NYU Langone Health - Flinker Lab](https://flinkerlab.org/)
+**Role:** Data Science Research Assistant  
+
 
 **Problem:** Before a patient undergoes left hemisphere brain surgery, the care team identifies speech-related brain regions to prevent post-surgery language issues. However, differing impacts of spontaneous versus prompted speech on brain activity remains uncertain. 
 
@@ -44,9 +49,10 @@
 
 **Methods & Tools:** experimental design, hypothesis testing (ANOVA, Kruskal-Wallis, Wilcoxon rank sum, t-test), generalized linear modeling, MATLAB (mTRF toolbox), Python  
 
-## :heavy_check_mark: Advanced analytics and reporting on product KPIs     
+## >>>Advanced analytics and reporting on product KPIs     
   
 **Company:** [Medocity Inc.](https://www.medocity.com/platform/)
+**Role:** Product & Analytics Manager   
 
 **Problem:** At this telehealth app company, various stakeholders across Client Success, Product Management, Marketing, Engineering, and Sales lacked a comprehensive means to monitor key performance indicators, assess application health, and efficiently manage client accounts. The absence of an internal integrated analytics platform hindered their ability to make informed decisions and track vital metrics effectively.
 
