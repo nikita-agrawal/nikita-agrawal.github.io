@@ -34,7 +34,7 @@
 
 [View Blog Write Up](https://nycdatascience.com/blog/student-works/data-driven-supervised-models-forecasting-u-s-rent-prices/) 
 
-### >> Experimentation to compare brain activity for various speech tasks << 
+### >> Experimentation to compare brain activity during various speech tasks << 
   
 **Company:** [NYU Langone Health - Flinker Lab](https://flinkerlab.org/)
 
