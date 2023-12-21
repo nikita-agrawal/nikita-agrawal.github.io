@@ -1,4 +1,4 @@
-# PROJECTS 
+# DATA SCIENCE PROJECTS 
 
 ## :heavy_check_mark: Predicting unplanned hospitalizations with explainable AI   
 
