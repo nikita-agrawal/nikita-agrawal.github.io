@@ -1,4 +1,4 @@
-# *Data Science Projects* 
+# *Selected data science projects* 
 
 ## >>>Predicting unplanned hospitalizations with explainable AI   
 
