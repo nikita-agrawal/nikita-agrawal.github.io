@@ -22,18 +22,6 @@
  
 **Methods & Tools:** *SQL, Azure, Python (dask, pandas, SQLAlchemy), PowerBI* 
 
-### >> Forecasting rental prices <<
-
-**Company:** [Markerr](https://markerr.com/) *-  corporate partner for capstone at NYC Data Science Academy Bootcamp*  
-
-**Problem:** The client, a commercial real estate platform, wanted to accurately forecast rental prices in the US with less than $100/month error using diverse alternative data sources in addition to the historical rent price data. 
-
-**Solution:** Several time-series and supervised ML models were developed to accurately forecast rent price in 1000+ zip codes. Advanced data processing and feature engineering were applied to integrate Zillow Rent Index with alternative data (from Google Trends, the IRS, the ACS, public Bike Sharing datasets) in order to uncover valuable insights on rent price predictions.
-
-**Methods & Tools:** *ARIMAX, Lasso, XGBoost, feature selection, feature engineering with time-lagged data, scikit-learn, Jupyter*   
-
-[View Blog Write Up](https://nycdatascience.com/blog/student-works/data-driven-supervised-models-forecasting-u-s-rent-prices/) 
-
 ### >> Experimentation to compare brain activity during various speech tasks << 
   
 **Company:** [NYU Langone Health - Flinker Lab](https://flinkerlab.org/)
@@ -56,3 +44,15 @@ _Data Blitz Talk & Poster presented at Cognitive Neuroscience Society 2020 Confe
 **Solution:** To address this challenge, an in-house analytics platform was developed and integrated seamlessly into the app interface. This platform facilitated real-time monitoring of KPIs related to user engagement, user behavior, and user satisfaction while enabling stakeholders to gauge app health and manage client accounts efficiently. Several training sessions on self-service BI were delivered to empower the team to comprehend and leverage data for decision-making, reducing ad-hoc reporting requests by 70%. 
 
 **Methods & Tools:** *SQL, Tableau Server, data visualization, product roadmap planning, product requirements document creation, BI development and reporting*  
+
+### >> Forecasting rental prices <<
+
+**Company:** [Markerr](https://markerr.com/) *-  corporate partner for capstone at NYC Data Science Academy Bootcamp*  
+
+**Problem:** The client, a commercial real estate platform, wanted to accurately forecast rental prices in the US with less than $100/month error using diverse alternative data sources in addition to the historical rent price data. 
+
+**Solution:** Several time-series and supervised ML models were developed to accurately forecast rent price in 1000+ zip codes. Advanced data processing and feature engineering were applied to integrate Zillow Rent Index with alternative data (from Google Trends, the IRS, the ACS, public Bike Sharing datasets) in order to uncover valuable insights on rent price predictions.
+
+**Methods & Tools:** *ARIMAX, Lasso, XGBoost, feature selection, feature engineering with time-lagged data, scikit-learn, Jupyter*   
+
+[View Blog Write Up](https://nycdatascience.com/blog/student-works/data-driven-supervised-models-forecasting-u-s-rent-prices/) 
