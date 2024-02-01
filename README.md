@@ -13,6 +13,9 @@ During my 4-year data science journey in consulting, technology product analytic
 
 **Methods & Tools:** *xgboost, lightgbm, lasso, random forest, logistic regression, SHAP (SHapley Additive exPlanations), scikit-learn, mlr3, SQL, PowerBI*
 
+_Prioritization of Patients based on Model Risk Score and Personalized Insights (local SHAP):_        
+![](/assets/images/EMR_MockUp.png)
+
 [View Publication](https://ascopubs.org/doi/full/10.1200/CCI.22.00143?role=tab)
 
 ### >> Implementing KPIs to guide school zone decision making <<
