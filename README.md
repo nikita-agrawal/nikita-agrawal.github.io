@@ -52,6 +52,7 @@ _Tableau Reporting and Data Visualizations:_
 ![](/assets/images/Reports_Image.png)
 
 ### >> Forecasting rental prices <<
+[View Blog Write Up](https://nycdatascience.com/blog/student-works/data-driven-supervised-models-forecasting-u-s-rent-prices/) 
 
 **Company:** [Markerr](https://markerr.com/) *-  corporate partner for capstone at NYC Data Science Academy Bootcamp*  
 
@@ -61,4 +62,3 @@ _Tableau Reporting and Data Visualizations:_
 
 **Methods & Tools:** *ARIMAX, Lasso, XGBoost, feature selection, feature engineering with time-lagged data, scikit-learn, Jupyter*   
 
-[View Blog Write Up](https://nycdatascience.com/blog/student-works/data-driven-supervised-models-forecasting-u-s-rent-prices/) 
