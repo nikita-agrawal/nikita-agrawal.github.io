@@ -47,6 +47,9 @@ _Data Blitz Talk & Poster presented at Cognitive Neuroscience Society 2020 Confe
 **Solution:** To address this challenge, an in-house analytics platform was developed and integrated seamlessly into the app interface. This platform facilitated real-time monitoring of KPIs related to user engagement, user behavior, and user satisfaction while enabling stakeholders to gauge app health and manage client accounts efficiently. Several training sessions on self-service BI were delivered to empower the team to comprehend and leverage data for decision-making, reducing ad-hoc reporting requests by 70%. 
 
 **Methods & Tools:** *SQL, Tableau Server, data visualization, product roadmap planning, product requirements document creation, BI development and reporting*  
+Reports_Image.png
+_Tableau Reporting and Data Visualizations:_        
+![](/assets/images/Reports_Image.png)
 
 ### >> Forecasting rental prices <<
 
