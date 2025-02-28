@@ -1,5 +1,5 @@
 # About Me 
-During my 6+ data science journey in consulting, technology product analytics and engineering research, I have cultivated a passion for delving into complex problems and crafting strategic and technical solutions that bring real value to businesses. I'm skilled in analyzing data and I thrive on fostering collaborative relationships across diverse teams. Please feel free to say hello at nikita24agrawal@gmail.com! 
+During my 6+ years data science journey in consulting, technology product analytics and engineering research, I have cultivated a passion for delving into complex problems and crafting strategic and technical solutions that bring real value to businesses. I'm skilled in analyzing data and I thrive on fostering collaborative relationships across diverse teams. Please feel free to say hello at nikita24agrawal@gmail.com! 
 
 # Selected Projects
 
